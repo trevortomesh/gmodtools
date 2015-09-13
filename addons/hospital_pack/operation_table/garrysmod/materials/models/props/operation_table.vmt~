@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models/props/operation_table"
+     "$normalmapalphaenvmapmask" 0
+     "$envmapcontrast" 1
+     "$model" 1
+     "$selfillum" 1
+}
